@@ -3,7 +3,7 @@ Sorting a matrix with quicksort algorithm
 
 This is a project which I was coding in the second year of my degree.
 
-#Class Location
+# Class Location
 
 it has two variables (x and y) represents the position it occupies in the matrix. The location class allows us treat the matrix as a vector, it has two important methods:
 - incr(this method increase 1 position the location of the element)
